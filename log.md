@@ -10,7 +10,7 @@
 
 ⏳ 1h
 
-💭 ..today was not a good day. I could barely work. Was filled with anxiety. Had a panic attack. In the evening I found some inspiration & worked on my 13-week roadmap & prepping the bujo for Q2. Guess I have to be patient with myself in these times.. 
+💭 ..today was not a good day. I could barely work. Was filled with anxiety. Had a panic attack. In the evening I found some inspiration & worked on my 13-week roadmap & prepping the bujo for Q2. Guess I have to be patient with myself in these times.. 🐢
 
 ## D1 | April 1st
 
