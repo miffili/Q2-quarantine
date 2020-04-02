@@ -2,7 +2,7 @@
 
 As of now, most of the world is in a special situation. As all I can do to support is #stayhome, I wanna make the best out of this.
 
-I won't start a new round of #100DaysOfCode, because I clearly failed at the last gazillion attempts in doing round 4 😅. However.. I wanna set up new goals & work on them. One quarter are exactly 13 weeks.
+I won't start a new round of #100DaysOfCode, because I clearly failed at the last gazillion attempts in doing round 4 😅. However.. I wanna set up new goals & work on them. One quarter are exactly 13 weeks.. so..
 
 Here I will collect everything code-related. 😊
 
@@ -23,7 +23,7 @@ Here I will collect everything code-related. 😊
 
 #### [Base<sub>CS</sub> Articles](https://medium.com/basecs/archive)
 
-- [ ] Jan (0/5)
+- [ ] Jan (4/5)
 - [ ] Feb (0/4)
 - [ ] Mar (0/2)
 - [ ] Apr (0/4)
@@ -38,9 +38,9 @@ Here I will collect everything code-related. 😊
 
 Total (48)
 
-#### [Base<sub>CS</sub> Articles](https://www.codenewbie.org/basecs)
+#### [Base<sub>CS</sub> Podcast](https://www.codenewbie.org/basecs)
 
-- [ ] Season 1 (0/8) (based on articles)
+- [ ] Season 1 (2/8) (based on articles)
 - [ ] Season 2 (0/8)
 - [ ] Season 3 (0/8)
 - [ ] Season 4 (0/8)
